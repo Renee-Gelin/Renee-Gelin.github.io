@@ -11,7 +11,7 @@
 <p align="center">
   <b>Business Architect &nbsp;|&nbsp; Business Solutions &amp; Integration Leader</b><br>
   <i>Strategic analysis, business solutions and data integration, from enterprise roadmap to detailed requirements</i><br>
-  📍 Tampa, Florida · Open to remote and hybrid roles
+  📍 Tampa, Florida · Open to remote roles
 </p>
 
 <p align="center">
